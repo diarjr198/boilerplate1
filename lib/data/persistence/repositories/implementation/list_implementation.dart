@@ -1,5 +1,5 @@
 import 'package:boilerplate/app/infrastructures/endpoints.dart';
-import 'package:boilerplate/app/infrastructures/persistence/mappers/home_list_mapper.dart';
+import 'package:boilerplate/data/persistence/mappers/home_list_mapper.dart';
 import 'package:boilerplate/data/infrastructures/api_service_interface.dart';
 import 'package:boilerplate/data/persistence/repositories/contracts/list_repository.dart';
 import 'package:boilerplate/domains/post_domain.dart';
